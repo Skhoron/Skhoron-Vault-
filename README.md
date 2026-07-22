@@ -70,6 +70,3 @@ gradle wrapper --gradle-version 8.7
 invariant (отсутствие `INTERNET` permission и сетевых классов в исходниках).
 Требует наличия Gradle Wrapper (см. выше).
 
-## Иконка
-
-Щит с вертикальной прорезью — `res/drawable/ic_shield_*.xml`, adaptive icon.
